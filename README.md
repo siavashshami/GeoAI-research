@@ -1,2 +1,2 @@
-# GEE-projects
-Google Earth Engine projects and research workflows for remote sensing, geospatial analysis, and Earth observation.
+# GeoAI-research
+Open-source AI tools, research scripts, and Google Earth Engine workflows for remote sensing, InSAR, geospatial analysis, Earth observation, and scientific applications.
